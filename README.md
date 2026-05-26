@@ -160,22 +160,6 @@ The web interface calls the Python manager classes for validation, calculations,
 
 Homey is a **web-based application** using Flask, HTML, CSS, and JavaScript. It may need to be run outside Ed if Flask or local web hosting is not available in the Ed environment.
 
-Run:
-
-```bash
-python3 main.py
-```
-
----
-
-## Author
-
-**[Your Name]**  
-**[Your SID]**  
-**[Your Course / Tutorial]**
-
-GitHub Repository: [rachel990401/homey](https://github.com/rachel990401/homey)
-
 ---
 
 *Built as a Python-first project with a web dashboard for presentation.*
